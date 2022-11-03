@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Why won't you load??
+This is going to be a personal website.
 
 <!--
 **terransiladi/terransiladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
