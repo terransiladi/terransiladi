@@ -1,1 +1,1 @@
-This github is primarily used as a personal landing page for Terran Siladi, find the full site at https://www.terransiladi.com
+I'm a Mechanical Engineer who loves to tinker. Professional Portfolio site can be found here: https://www.terransiladi.com
