@@ -1,1 +1,1 @@
-I'm a Mechanical Engineer who loves to tinker. Professional Portfolio site can be found here: https://www.terransiladi.com
+Mechanical engineer prentending to be an electrical engineer who wants to be a programmer but is employeed to manage control systems. 
